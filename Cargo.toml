@@ -1,0 +1,15 @@
+[package]
+name = "scheduledautozoom"
+version = "0.1.0"
+authors = ["Oğuz Kurt <kurt.oguz@outlook.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+time = { version = "0.2.23", features = ["serde"] }
+clap = "2.33.3"
+serde = "1.0.117"
+serde_json = "1.0"
+chrono = { version = "0.4.19", features = ["serde"] }
+url = "2.2.0"
