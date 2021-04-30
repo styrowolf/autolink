@@ -1,5 +1,5 @@
 [package]
-name = "scheduledautozoom"
+name = "autolink"
 version = "0.1.0"
 authors = ["Oğuz Kurt <kurt.oguz@outlook.com>"]
 edition = "2018"
